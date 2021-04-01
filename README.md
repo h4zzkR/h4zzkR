@@ -2,9 +2,16 @@
 
 <!--
 **h4zzkR/h4zzkR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+🥷 Ilya Litvinov
 
-Here are some ideas to get you started:
+🎓 MIPT DIHT bachelor 2024
 
+💻 Languages: Python, C++
+
+TG: [@h4zzkR](https://t.me/h4zzkR)
+
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
