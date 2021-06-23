@@ -5,7 +5,7 @@
 
 🎓 MIPT DIHT bachelor 2024
 
-💻 Languages: Python, C++
+💻 Languages: C++, Python
 
 TG: [@h4zzkR](https://t.me/h4zzkR)
 
