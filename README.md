@@ -1,7 +1,7 @@
 <!--
 **h4zzkR/h4zzkR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-🥷 Ilya Litvinov
+Ilya Litvinov
 
 🎓 MIPT DIHT bachelor 2024
 
