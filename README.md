@@ -5,13 +5,11 @@ Ilya Litvinov
 
 🎓 MIPT DIHT bachelor 2024
 
-💻 Languages: C++, Python
+💻 Languages: C++, Go, Python
 
 TG: [@h4zzkR](https://t.me/h4zzkR)
 
------
-
-[![h4zzkR's GitHub stats](https://github-readme-stats.vercel.app/api?username=h4zzkR)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![h4zzkR's GitHub stats](https://github-readme-stats.vercel.app/api?username=h4zzkR)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
 - 🔭 I’m currently working on ...
