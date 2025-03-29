@@ -5,7 +5,7 @@ Ilya Litvinov
 
 🎓 MIPT DIHT bachelor 2024
 
-💻 Languages: C++, Go, Python
+💻 Languages: C++, C, Go, Python
 
 TG: [@h4zzkR](https://t.me/h4zzkR)
 
